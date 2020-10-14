@@ -1,3 +1,12 @@
+# .Rproj files
+*.Rproj
+
+# SA4 .shp files
+SA4_2016_AUST/
+
+# Images
+*.png
+
 # History files
 .Rhistory
 .Rapp.history
